@@ -1,0 +1,17 @@
+.\objects\rtl876x_adc.o: ..\..\..\src\mcu\peripheral\rtl876x_adc.c
+.\objects\rtl876x_adc.o: ..\..\..\src\sample\ble_peripheral\app_flags.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\platform\rtl876x.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\platform\cmsis\core_cm4.h
+.\objects\rtl876x_adc.o: c:\Keil_v530\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\platform\cmsis\core_cmInstr.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\platform\cmsis\core_cmFunc.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\platform\cmsis\core_cmSimd.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\platform\system_rtl876x.h
+.\objects\rtl876x_adc.o: c:\Keil_v530\ARM\ARMCC\Bin\..\include\stdbool.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\peripheral\rtl876x_bitfields.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\platform\cmsis\core_cm4.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\peripheral\rtl876x_rcc.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\peripheral\rtl876x_adc.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\platform\platform_utils.h
+.\objects\rtl876x_adc.o: c:\Keil_v530\ARM\ARMCC\Bin\..\include\stddef.h
+.\objects\rtl876x_adc.o: ..\..\..\inc\platform\bee2_adc_lib.h
